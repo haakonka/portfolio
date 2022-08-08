@@ -1,4 +1,7 @@
-# personalwebsite
+# Portfolio
+
+## Website
+Visit the website at https://haakontkan.web.app
 
 ## Project setup
 ```
