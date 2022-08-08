@@ -1,5 +1,8 @@
 # Portfolio
 
+## Website
+Visit the website at https://haakontkan.web.app
+
 ## Project setup
 ```
 npm install
