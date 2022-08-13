@@ -1,7 +1,8 @@
 # Portfolio
 
 ## Website
-Visit the website at https://haakontkan.web.app
+
+Visit the website at https://haakon.kanter.no
 
 ## Project setup
 ```
