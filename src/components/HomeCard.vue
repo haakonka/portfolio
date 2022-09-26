@@ -5,14 +5,13 @@
     <p>21 år gammel</p>
     <div class="container">
       <a href="https://www.github.com/haakonka">
-        <img alt="Github" src="../assets/githublight32.png"
+        <img alt="Github" src="../assets/github.png"
       /></a>
       <a href="mailto:haakon.kanter@gmail.com">
         <span class="material-icons"> mail </span>
       </a>
-
-      <a href="https://discordapp.com/channels/@me/320173768724971520/">
-        <img class="discord" alt="Discord" src="../assets/discordlight.png" />
+      <a href="https://no.linkedin.com/in/haakon-kanter-b49300221">
+        <img class="LinkedIn" alt="LinkedIn" src="../assets/linkedIn.svg" />
       </a>
     </div>
   </div>
@@ -47,11 +46,6 @@ h3 {
 img {
   padding-right: 1em;
   padding-left: 1em;
-}
-
-.discord {
-  padding-left: 0.5em;
-  object-fit: contain;
   width: 32px;
   height: 32px;
 }
