@@ -5,7 +5,7 @@
     <router-link to="/interests"> INTERESSER</router-link>
     <router-link to="/skills"> FERDIGHETER</router-link>
   </nav>
-  <router-view />
+  <router-view></router-view>
 </template>
 
 <style>
@@ -33,8 +33,7 @@ nav a {
 }
 
 nav a:hover {
-  font-size: larger;
-  color: rgba(255, 255, 255, 0.9);
+  color: #008ea7;
   transition: 0.5s;
 }
 
