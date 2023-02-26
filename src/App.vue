@@ -2,7 +2,6 @@
   <nav>
     <router-link to="/">HJEM</router-link>
     <router-link to="/projects"> PROSJEKTER</router-link>
-    <router-link to="/interests"> INTERESSER</router-link>
     <router-link to="/skills"> FERDIGHETER</router-link>
   </nav>
   <router-view></router-view>
@@ -27,7 +26,8 @@ nav {
 }
 
 nav a {
-  margin-right: 30px;
+  margin-left: 0.5em;
+  margin-right: 0.5em;
   text-decoration: none;
   color: rgba(255, 255, 255, 0.6);
 }
@@ -66,11 +66,11 @@ nav a.router-link-exact-active {
 
 @media only screen and (max-width: 380px) {
   nav a {
-    font-size: x-small;
+    font-size: small;
   }
 
   nav a.router-link-exact-active {
-    font-size: x-small;
+    font-size: small;
   }
 }
 </style>
