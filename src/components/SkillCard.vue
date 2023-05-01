@@ -5,7 +5,7 @@
   <button @click="displayInfo('javascript')">
     <img src="../assets/progskills/javascript.svg" alt="Javascript" />
   </button>
-  <button @click="johnMary('johnMary')">
+  <button @click="displayInfo('java')">
     <img src="../assets/progskills/java.svg" alt="Java" />
   </button>
   <button @click="displayInfo('python')">
@@ -121,6 +121,9 @@ button {
 img {
   height: 64px;
   margin: 2em;
+}
+img:hover {
+  cursor: pointer;
 }
 textarea {
   border: none;
