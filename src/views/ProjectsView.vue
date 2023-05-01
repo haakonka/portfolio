@@ -3,7 +3,6 @@
     <ProjectCard
       projectname="Python Playground"
       projectdescription="En nettside hvor man kan sende inn Pythonscripts som blir utført av en backend"
-      websitelink="/#"
       githublink="https://github.com/haakonka/pythonplayground"
     />
     <ProjectCard

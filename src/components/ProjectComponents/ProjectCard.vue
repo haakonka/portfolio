@@ -4,7 +4,7 @@
     <div class="project-description">
       <p> {{projectdescription}}</p>
     </div>
-    <a :href=websitelink> Nettside</a> |
+    <a v-if="websitelink" :href=websitelink> Nettside</a> <span v-if="websitelink"> | </span>
     <a :href=githublink> GitHub</a>
   </div>
  
